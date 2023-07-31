@@ -40,7 +40,7 @@ namespace Mokoena_27268217_Assessment2
             // clear the item textBox
             nameTxtBox.Text = "";
 
-            // set focus to the item textBox
+        
             nameTxtBox.Focus();
         }
     }
