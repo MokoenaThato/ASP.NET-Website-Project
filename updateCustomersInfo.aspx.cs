@@ -62,7 +62,6 @@ namespace Mokoena_27268217_Assessment2
 
             // call the update method
             updateCustomer(query);
-
         }
     }
 }
