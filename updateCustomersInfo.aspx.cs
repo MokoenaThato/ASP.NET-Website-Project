@@ -63,7 +63,6 @@ namespace Mokoena_27268217_Assessment2
             // call the update method
             updateCustomer(query);
 
-            // Mic testing testing one two, one two
         }
     }
 }
