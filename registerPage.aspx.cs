@@ -49,8 +49,7 @@ namespace Mokoena_27268217_Assessment2
                 {
                     match = true;
                 }
-
-                // Close connection
+    
                 conn.Close();
             }
             catch (SqlException ex)
